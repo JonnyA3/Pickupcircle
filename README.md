@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://github.com/JonnyA3/tip-two/blob/master/tiptwo%20demo.gif" target="_blank"><img src='https://github.com/JonnyA3/tip-two/blob/master/tiptwo%20demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://github.com/JonnyA3/Pickupcircle/blob/master/Pickupcircle%20demo.gif" target="_blank"><img src='https://github.com/JonnyA3/Pickupcircle/blob/master/Pickupcircle%20demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
