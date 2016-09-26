@@ -20,7 +20,6 @@ class SettingsControllerExistingViewController: UIViewController {
         
         scrollView.contentSize = imageView.frame.size
         
-        
     }
 
     override func didReceiveMemoryWarning() {

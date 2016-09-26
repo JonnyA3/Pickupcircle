@@ -41,7 +41,7 @@
                                 <frame key="frameInset" minX="125" minY="520" width="124" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
-                                    <segue destination="1tt-Se-LbE" kind="modal" modalTransitionStyle="partialCurl" id="Gap-vt-ulr"/>
+                                    <segue destination="4as-tu-j1o" kind="modal" animates="NO" id="YGj-gd-lbz"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -516,8 +516,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" id="wqL-bf-zLN">
-                                <frame key="frameInset" width="375" height="1000"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <frame key="frameInset"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
                                     <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" misplaced="YES" image="settings" id="KNH-L0-fHu">
                                         <rect key="frame" x="0.0" y="1" width="375" height="904"/>
@@ -527,13 +527,13 @@
                                         <rect key="frame" x="0.0" y="811" width="375" height="50"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <connections>
-                                            <segue destination="1tt-Se-LbE" kind="modal" id="IAJ-gL-g7o"/>
+                                            <segue destination="1tt-Se-LbE" kind="modal" modalTransitionStyle="flipHorizontal" id="IAJ-gL-g7o"/>
                                         </connections>
                                     </button>
                                 </subviews>
                             </scrollView>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.92549019610000005" green="0.94117647059999998" blue="0.95294117649999999" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="y0f-rT-AWS"/>
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
@@ -746,24 +746,24 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="ypr-J1-8jr">
-                                <frame key="frameInset" width="375" height="1000"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <frame key="frameInset"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
                                     <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" misplaced="YES" image="settings" id="jSa-iK-GWF">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="904"/>
+                                        <rect key="frame" x="0.0" y="-16" width="375" height="904"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="qQ8-Tt-VzX">
-                                        <rect key="frame" x="0.0" y="809" width="375" height="50"/>
+                                        <rect key="frame" x="0.0" y="795" width="375" height="50"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <connections>
-                                            <segue destination="1tt-Se-LbE" kind="modal" id="rG9-N9-etj"/>
+                                            <segue destination="1tt-Se-LbE" kind="modal" modalTransitionStyle="flipHorizontal" id="rG9-N9-etj"/>
                                         </connections>
                                     </button>
                                 </subviews>
                             </scrollView>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.92549019610000005" green="0.94117647059999998" blue="0.95294117649999999" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="RZ2-T7-Xhs"/>
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
@@ -982,9 +982,10 @@
         <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="Bi2-Fh-67d"/>
         <segue reference="5Do-tC-j5T"/>
+        <segue reference="YGj-gd-lbz"/>
+        <segue reference="Bi2-Fh-67d"/>
         <segue reference="iRE-op-Bjy"/>
-        <segue reference="rG9-N9-etj"/>
+        <segue reference="IAJ-gL-g7o"/>
     </inferredMetricsTieBreakers>
 </document>
