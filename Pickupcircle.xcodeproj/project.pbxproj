@@ -14,6 +14,14 @@
 		C82136701D96C72200D31689 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C821366E1D96C72200D31689 /* LaunchScreen.storyboard */; };
 		C821367B1D96C72200D31689 /* PickupcircleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C821367A1D96C72200D31689 /* PickupcircleTests.swift */; };
 		C82136861D96C72200D31689 /* PickupcircleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C82136851D96C72200D31689 /* PickupcircleUITests.swift */; };
+		C8A465DA1D985EAF004961B0 /* SettingsControllerExistingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465D91D985EAF004961B0 /* SettingsControllerExistingViewController.swift */; };
+		C8A465DC1D985F4B004961B0 /* SignInPageModalController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465DB1D985F4B004961B0 /* SignInPageModalController.swift */; };
+		C8A465DE1D9861C6004961B0 /* CreateAccountRootController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465DD1D9861C6004961B0 /* CreateAccountRootController.swift */; };
+		C8A465E01D9863BB004961B0 /* NewAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465DF1D9863BB004961B0 /* NewAccountViewController.swift */; };
+		C8A465E21D9866CA004961B0 /* DismissTCsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465E11D9866CA004961B0 /* DismissTCsController.swift */; };
+		C8A465E41D986E71004961B0 /* SettingsNewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A465E31D986E71004961B0 /* SettingsNewController.swift */; };
+		C8B64DD81D98B0AD00827F54 /* SignInModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B64DD71D98B0AD00827F54 /* SignInModalViewController.swift */; };
+		C8B64DDA1D98B57700827F54 /* ForgotPasswordController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B64DD91D98B57700827F54 /* ForgotPasswordController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		C82136811D96C72200D31689 /* PickupcircleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PickupcircleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C82136851D96C72200D31689 /* PickupcircleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickupcircleUITests.swift; sourceTree = "<group>"; };
 		C82136871D96C72200D31689 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8A465D91D985EAF004961B0 /* SettingsControllerExistingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsControllerExistingViewController.swift; sourceTree = "<group>"; };
+		C8A465DB1D985F4B004961B0 /* SignInPageModalController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInPageModalController.swift; sourceTree = "<group>"; };
+		C8A465DD1D9861C6004961B0 /* CreateAccountRootController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootController.swift; sourceTree = "<group>"; };
+		C8A465DF1D9863BB004961B0 /* NewAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAccountViewController.swift; sourceTree = "<group>"; };
+		C8A465E11D9866CA004961B0 /* DismissTCsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DismissTCsController.swift; sourceTree = "<group>"; };
+		C8A465E31D986E71004961B0 /* SettingsNewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsNewController.swift; sourceTree = "<group>"; };
+		C8B64DD71D98B0AD00827F54 /* SignInModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInModalViewController.swift; sourceTree = "<group>"; };
+		C8B64DD91D98B57700827F54 /* ForgotPasswordController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +116,14 @@
 				C82136651D96C72100D31689 /* AppDelegate.swift */,
 				C82136671D96C72100D31689 /* ViewController.swift */,
 				C82136691D96C72200D31689 /* Main.storyboard */,
+				C8B64DD91D98B57700827F54 /* ForgotPasswordController.swift */,
+				C8B64DD71D98B0AD00827F54 /* SignInModalViewController.swift */,
+				C8A465E31D986E71004961B0 /* SettingsNewController.swift */,
+				C8A465E11D9866CA004961B0 /* DismissTCsController.swift */,
+				C8A465DF1D9863BB004961B0 /* NewAccountViewController.swift */,
+				C8A465DD1D9861C6004961B0 /* CreateAccountRootController.swift */,
+				C8A465DB1D985F4B004961B0 /* SignInPageModalController.swift */,
+				C8A465D91D985EAF004961B0 /* SettingsControllerExistingViewController.swift */,
 				C821366C1D96C72200D31689 /* Assets.xcassets */,
 				C821366E1D96C72200D31689 /* LaunchScreen.storyboard */,
 				C82136711D96C72200D31689 /* Info.plist */,
@@ -259,8 +283,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8A465DC1D985F4B004961B0 /* SignInPageModalController.swift in Sources */,
+				C8A465DA1D985EAF004961B0 /* SettingsControllerExistingViewController.swift in Sources */,
 				C82136681D96C72100D31689 /* ViewController.swift in Sources */,
 				C82136661D96C72100D31689 /* AppDelegate.swift in Sources */,
+				C8A465DE1D9861C6004961B0 /* CreateAccountRootController.swift in Sources */,
+				C8B64DDA1D98B57700827F54 /* ForgotPasswordController.swift in Sources */,
+				C8A465E41D986E71004961B0 /* SettingsNewController.swift in Sources */,
+				C8B64DD81D98B0AD00827F54 /* SignInModalViewController.swift in Sources */,
+				C8A465E21D9866CA004961B0 /* DismissTCsController.swift in Sources */,
+				C8A465E01D9863BB004961B0 /* NewAccountViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -503,6 +535,7 @@
 				C821368C1D96C72200D31689 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C821368D1D96C72200D31689 /* Build configuration list for PBXNativeTarget "PickupcircleTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +544,7 @@
 				C821368F1D96C72200D31689 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C82136901D96C72200D31689 /* Build configuration list for PBXNativeTarget "PickupcircleUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +553,7 @@
 				C82136921D96C72200D31689 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
