@@ -1,6 +1,6 @@
 # Pickupcircle
 
-Pickupcircle is Dropbox's poser brother that thinks he's good enough for for iOS.
+Pickupcircle is Dropbox's poser brother that thinks he's good enough for for iOS. Also, he loves curl animations. Gross.
 
 Submitted by: Jonny
 
@@ -30,7 +30,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 

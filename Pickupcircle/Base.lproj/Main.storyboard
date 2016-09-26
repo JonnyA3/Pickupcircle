@@ -30,7 +30,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tap" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="UWq-lO-ccZ">
-                                <frame key="frameInset" minX="43" minY="475" width="52" height="30"/>
+                                <frame key="frameInset" minX="42" minY="475" width="52" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.94509803921568625" green="0.97647058823529409" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -984,7 +984,7 @@
     <inferredMetricsTieBreakers>
         <segue reference="5Do-tC-j5T"/>
         <segue reference="YGj-gd-lbz"/>
-        <segue reference="Bi2-Fh-67d"/>
+        <segue reference="C4H-B0-6aZ"/>
         <segue reference="iRE-op-Bjy"/>
         <segue reference="IAJ-gL-g7o"/>
     </inferredMetricsTieBreakers>
